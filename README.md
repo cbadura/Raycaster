@@ -1,5 +1,5 @@
 # Raycaster
-Raycaster in the tradition of Wolfenstein3D
+Raycaster in the tradition of Wolfenstein3D (together with chltam)
 
 ## Installation (on Linux)
 make (if you do not have the Minilibx graphics library on your systems, it will be downloaded automatically)
